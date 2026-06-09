@@ -1,6 +1,6 @@
 {
-  "name": "Aetherium Cosmic Core",
-  "description": "A mystical, high-performance full-stack core engine. Features a celestial interface, real-time cosmic telemetry, and aether-linked API architecture.",
+  "name": "ObservX Master Infrastructure",
+  "description": "The administrative core and cosmic telemetry ledger for the ObservX ecosystem. Featuring real-time infrastructure audits and kinetic rule enforcement.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
